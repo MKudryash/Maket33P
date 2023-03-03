@@ -1,6 +1,18 @@
 <resources>
     <string name="app_name">Maket33P</string>
     <string name="doNotHaveAccount">
-        <font color = "#1D68FF">Don\'t have an account? Let\'s </font><font color='#1D68FF'><b>Register</b></font></string>
+<font color="#1D68FF">Don\'t have an account? Let\'s </font><font color='#1D68FF'><b>Register</b></font></string>
+    <string name="already">
+<font color="#1D68FF">Already registered ?Let’s  </font><font color='#1D68FF'><b>Login</b></font></string>
+    <string name="teamName"><font color="#1D68FF">Product of </font><font color='#1D68FF'><b>Team Name </b></font></string>
+    <string name="title_activity_congrast">CongrastActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 
 </resources>

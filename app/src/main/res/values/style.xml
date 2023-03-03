@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="styleSimpleText" >
+        <item name="fontFamily">@font/sf_regular</item>
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textSize">14dp</item>
+    </style>
+    <style name="styleHeaderText">
+        <item name="android:textColor">@color/textColor</item>
+        <item name="android:textSize">40dp</item>
+        <item name="fontFamily">@font/sf_bold</item>
+    </style>
+</resources>
